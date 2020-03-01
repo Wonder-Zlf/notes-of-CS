@@ -1,2 +1,2 @@
-# hello-world
-to test
+# notes
+to share my notes of CS
