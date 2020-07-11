@@ -1,2 +1,2 @@
-# notes
-to share my notes of CS
+# notes of CS 计算机面试基础
+分享个人整理的计算机基础知识，不限于面试题
